@@ -1,0 +1,1 @@
+# swichbot-api-rapping-go
