@@ -1,0 +1,75 @@
+{
+  "statusCode": 100,
+  "body": {
+    "deviceList": [
+      {
+        "deviceId": "6055F93DAF92",
+        "deviceName": "スマート電球 AF92",
+        "deviceType": "Color Bulb",
+        "enableCloudService": true,
+        "hubDeviceId": "000000000000"
+      },
+      {
+        "deviceId": "6055F93DCDDE",
+        "deviceName": "スマート電球 CDDE",
+        "deviceType": "Color Bulb",
+        "enableCloudService": true,
+        "hubDeviceId": "000000000000"
+      },
+      {
+        "deviceId": "6055F94335A6",
+        "deviceName": "スマート電球 35A6",
+        "deviceType": "Color Bulb",
+        "enableCloudService": true,
+        "hubDeviceId": "000000000000"
+      },
+      {
+        "deviceId": "6055F9438C6E",
+        "deviceName": "スマート電球 8C6E",
+        "deviceType": "Color Bulb",
+        "enableCloudService": true,
+        "hubDeviceId": "000000000000"
+      },
+      {
+        "deviceId": "C7045C71EACB",
+        "deviceName": "ハブミニ CB",
+        "deviceType": "Hub Mini",
+        "hubDeviceId": "000000000000"
+      },
+      {
+        "deviceId": "F82A418371FB",
+        "deviceName": "リモートボタン FB",
+        "deviceType": "Remote",
+        "enableCloudService": false,
+        "hubDeviceId": "000000000000"
+      }
+    ],
+    "infraredRemoteList": [
+      {
+        "deviceId": "02-202203310017-29147059",
+        "deviceName": "エアコン",
+        "remoteType": "Air Conditioner",
+        "hubDeviceId": "C7045C71EACB"
+      },
+      {
+        "deviceId": "02-202203310024-93362109",
+        "deviceName": "テレビ",
+        "remoteType": "TV",
+        "hubDeviceId": "C7045C71EACB"
+      },
+      {
+        "deviceId": "02-202203310107-94035319",
+        "deviceName": "リビング",
+        "remoteType": "Light",
+        "hubDeviceId": "C7045C71EACB"
+      },
+      {
+        "deviceId": "02-202407061405-91270976",
+        "deviceName": "テレビa",
+        "remoteType": "TV",
+        "hubDeviceId": "C7045C71EACB"
+      }
+    ]
+  },
+  "message": "success"
+}
