@@ -31,6 +31,13 @@
         "hubDeviceId": "000000000000"
       },
       {
+        "deviceId": "84F703B3CC4E",
+        "deviceName": "プラグミニ 4E",
+        "deviceType": "Plug Mini (JP)",
+        "enableCloudService": true,
+        "hubDeviceId": "000000000000"
+      },
+      {
         "deviceId": "C7045C71EACB",
         "deviceName": "ハブミニ CB",
         "deviceType": "Hub Mini",
@@ -52,20 +59,14 @@
         "hubDeviceId": "C7045C71EACB"
       },
       {
-        "deviceId": "02-202203310024-93362109",
-        "deviceName": "テレビ",
-        "remoteType": "TV",
-        "hubDeviceId": "C7045C71EACB"
-      },
-      {
         "deviceId": "02-202203310107-94035319",
         "deviceName": "リビング",
         "remoteType": "Light",
         "hubDeviceId": "C7045C71EACB"
       },
       {
-        "deviceId": "02-202407061405-91270976",
-        "deviceName": "テレビa",
+        "deviceId": "02-202411102247-79952428",
+        "deviceName": "テレビ",
         "remoteType": "TV",
         "hubDeviceId": "C7045C71EACB"
       }
